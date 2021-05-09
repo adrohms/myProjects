@@ -1,0 +1,1 @@
+## From Coding Challenge #160: The Coding Train
